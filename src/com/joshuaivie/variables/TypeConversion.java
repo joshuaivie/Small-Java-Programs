@@ -9,6 +9,7 @@ public class TypeConversion {
         short shortVal = 7;
         long longVal = 5;
 
+        // Done using the CAST operator
         short result1 = (short) longVal;
         short result2 = (short) (byteVal - longVal);
         float result3 = longVal - floatVal;
