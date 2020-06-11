@@ -1,4 +1,4 @@
-package com.joshuaivie.organized;
+package com.joshuaivie.variables;
 
 public class Print {
 
